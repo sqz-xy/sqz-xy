@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sqz-xy, Im a computer science student at the University of Hull.
-- 👀 I’m interested in Computers (obviously) and Geography
-- 🌱 I’m currently learning Computer science!!!!!
+- 👀 I’m interested in Computers and Geography
+- 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on nothing as of yet.
 - 📫 How to reach me; Discord: sQzxY#3728, Twitter: @sQzxY
 
