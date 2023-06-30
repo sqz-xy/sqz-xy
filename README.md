@@ -3,6 +3,8 @@
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me; Discord: sQzxY#3728, Twitter: @sQzxY
 - My Site: https://sqzxy4.wordpress.com
+- University work will be made public once permission has been granted.
+
 
 <!---
 sqz-xy/sqz-xy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
