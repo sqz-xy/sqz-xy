@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sqz-xy, Im a Computer Science student at the University of Hull.
+- 👋 Hi, I’m @sqz-xy, Im a Computer Science Graduate from the University of Hull.
 - 👀 I’m interested in Computers and Geography
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me; Discord: sQzxY#3728, Twitter: @sQzxY
